@@ -8,7 +8,7 @@
   "server": {
     "ip": "server_ITA.aternos.me",
     "port": 44525,
-    "version": "1.21.1"
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
